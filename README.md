@@ -5,10 +5,14 @@
 
 -----
 
-### Giáo trình hàm phức & biến đổi Laplace
-- Tác giả: Ngô Ngọc Hưng; Nguyễn Đức Phương; Lã Ngọc Linh
-- Nhà xuất bản Đại học Công nghiệp TP. HCM
-- Năm xuất bản: 
+### Noi mua giao trinh
+- Giảng viên giới thiệu giáo trình trên lớp học
+- Sinh viên không mua giáo trình giới thiệu, photo bên ngoài
+
+### Giáo trình Toán cao cấp (Kinh tế) 
+- Tác giả: Đoàn Vương Nguyên; Đỗ Hoài Vũ; Lê Văn Lai; Nguyễn Đức Phương (chủ biên)
+- Nhà xuất bản: 
+- Năm xuất bản: Năm biên soạn 2024
 - Email: ffs@iuh.edu.vn
 - ISBN:
 - Nới bán: Sinh viên mua tại lớp học 
@@ -17,15 +21,8 @@
 ### Hình thức thi
 | Thường kỳ | Giữa kỳ | Cuối ky |
 | --------- | ------- | ------- |
-| Tự luận   | Tự luận | Tự luận |
+|    |Trắc nghiệm | Trắc nghiệm |
 -----
-Bài thi tự luận giảng viên ôn tập theo cấu trúc bên dưới 
-### Nội dung thi
-
-| Năm học   | Kỳ thi        | File mẫu                                                                                             |
-| --------- | ------------- | ---------------------------------------------------------------------------------------------------- |
-
-------
 
 ### Các sai sót trong giáo trình
 | Trang | dòng | Lỗi                           | Chỉnh sửa                     |
